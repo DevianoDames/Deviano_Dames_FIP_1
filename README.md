@@ -1,5 +1,6 @@
 # Deviano_Dames_FIP_1
 Deviano Dames FIP 
+<<<<<<< HEAD
 
 # Triple D's Wrap
 
@@ -24,3 +25,21 @@ Deviano's Master Piece
 ## License
 
 MIT
+=======
+##Installation
+For my website i started off researching similar website build for ideas. I went out and took photos for my website. My color for my website came from my Country flag.
+
+##Usage
+
+##Contributing 
+
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+
+##History
+
+##Credits
+>>>>>>> e296a8e04d854eb189d1dac41eaa4576fae97b11
