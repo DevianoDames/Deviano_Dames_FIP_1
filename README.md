@@ -1,6 +1,5 @@
 # Deviano_Dames_FIP_1
-Deviano Dames FIP 
-# Deviano Dames
+Deviano Dames FIP Website Triple D's Wrap
 
 # Triple D's Wrap
 
@@ -42,4 +41,4 @@ Submit a pull request :D
 ##History
 
 ##Credits
->>>>>>> e296a8e04d854eb189d1dac41eaa4576fae97b11
+
