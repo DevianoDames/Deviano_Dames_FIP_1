@@ -1,6 +1,6 @@
 # Deviano_Dames_FIP_1
 Deviano Dames FIP 
-<<<<<<< HEAD
+# Deviano Dames
 
 # Triple D's Wrap
 
